@@ -1,1 +1,539 @@
-{}
+{
+  "site": {
+    "name": "Legion Breaker Wiki",
+    "shortName": "Legion Breaker",
+    "tagline": "呪文・スキルツリー・聖軍・進行ガイド",
+    "description": "ファン制作のLegion Breaker Wiki。初心者ガイド、呪文ビルド、スキルツリー強化、聖軍戦略、完全な進行攻略を網羅しています。",
+    "legalNotice": "非公式のファンWikiです。プレイヤーがプレイヤーのために制作しています。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマ切替",
+    "guide": "ガイド",
+    "mechanics": "メカニクス",
+    "combat": "戦闘",
+    "progression": "進行",
+    "builds": "ビルド",
+    "release": "リリース",
+    "community": "コミュニティ"
+  },
+  "home": {
+    "meta": {
+      "title": "Legion Breaker Wiki｜ビルド・攻略・戦略",
+      "description": "Legion Breaker Wikiでは、ビルド、戦闘ガイド、キャラクター情報、戦略、攻略チャート、最新のゲームアップデートをプレイヤー向けに紹介しています。"
+    },
+    "hero": {
+      "eyebrow": "ダークファンタジー・アクションストラテジー",
+      "title": "Legion Breaker Wiki",
+      "description": "Legion Breakerは、敵の軍団を打ち破り、強力な能力を極め、難易度の高い戦いを進んでいくダークファンタジー戦闘ゲームです。",
+      "stats": [
+        "初心者ガイド",
+        "呪文・スキルビルド",
+        "聖軍のコツ",
+        "毎週更新"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "Steamでプレイ",
+      "tertiaryCta": "有効なコード",
+      "videoLabel": "公式トレーラー"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "はじめに",
+      "title": "Legion Breakerの旅を始めよう",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "Legion Breakerの基本ループを学びましょう。アンデッドの大群に呪文を狙い、絶え間ないブライトダメージの減少に対抗し、最初のゴールドを適切な強化ノードに投資します。"
+        },
+        {
+          "number": "2",
+          "title": "最速レベリング",
+          "description": "最も効率的なゴールドとノードのルートをたどり、バトルメイジを序盤のウェーブで素早く成長させ、最初のボス前に重要なダメージ閾値へ到達させましょう。"
+        },
+        {
+          "number": "3",
+          "title": "最強の呪文とビルド",
+          "description": "爆発する投射物にResounding Fragmentsの破片反射を重ね、密集したアンデッドの群れを一掃し、装甲エリートを瞬殺しましょう。"
+        },
+        {
+          "number": "4",
+          "title": "最初のボス攻略",
+          "description": "聖軍と呪文ローテーションを整え、ネクロマンサーキングのフェーズを生き延び、キャンペーンを快勝で締めくくりましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "今話題の記事",
+      "quickLinks": [
+        "初心者ガイド",
+        "レベリングガイド",
+        "呪文システム",
+        "ボス戦"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "Legion Breakerの基本ループ：呪文の狙い方、ブライトダメージへの対処、最初のゴールドの使い道。",
+          "href": "/guide/legion-breaker-beginner-guide"
+        },
+        {
+          "badge": "人気",
+          "title": "最強ビルド",
+          "description": "Legion Breakerの全ウェーブを突破するための最適な呪文・スキルツリー・軍団の組み合わせ。",
+          "href": "/builds/legion-breaker-best-build"
+        },
+        {
+          "badge": "人気",
+          "title": "呪文システム",
+          "description": "投射物の物理挙動、破片反射の連鎖、そしてバーストダメージを支える強化ノード。",
+          "href": "/mechanics/legion-breaker-spell-system"
+        },
+        {
+          "badge": "新着",
+          "title": "スキルツリーガイド",
+          "description": "Spellcraft、Sustain、Martial Forces、Economy——Legion Breakerのゴールドをどう配分するか。",
+          "href": "/progression/legion-breaker-skills"
+        },
+        {
+          "badge": "人気",
+          "title": "軍団編成",
+          "description": "バトルメイジが詠唱する間、前線を支える槍兵・弓兵・先鋒部隊。",
+          "href": "/mechanics/legion-breaker-army-building"
+        },
+        {
+          "badge": "更新",
+          "title": "ボス戦ガイド",
+          "description": "Legion Breakerの各ボスに対応する陣形、呪文ローテーション、フェーズ戦略。",
+          "href": "/combat/legion-breaker-boss-fight"
+        },
+        {
+          "badge": "新着",
+          "title": "ネクロマンサーキング",
+          "description": "Legion Breaker最終戦の完全攻略と、激化するボスフェーズの解説。",
+          "href": "/combat/legion-breaker-necromancer-king"
+        },
+        {
+          "badge": "更新",
+          "title": "強化ガイド",
+          "description": "ゴールドを最初にどこへ使うか、そして終盤までダメージを伸ばし続ける方法。",
+          "href": "/progression/legion-breaker-upgrades"
+        },
+        {
+          "badge": "新着",
+          "title": "ダウンロードとSteam",
+          "description": "Legion Breakerの価格、バンドル、体験版の入手方法、PC動作環境。",
+          "href": "/release/legion-breaker-download"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Legion Breakerとは？",
+      "paragraphs": [
+        "Legion Breakerは、インディー開発元Baffled Engineerが手掛け、Level Up GamingとGamersky Gamesがパブリッシュするアクティブ・インクリメンタル防衛ゲームです。プレイヤーは独りのバトルメイジを操り、絶え間なく押し寄せるアンデッドの軍団に立ち向かい、カーソルに向けて呪文を放ちながら、槍兵と弓兵からなる聖軍を成長させて共に戦います。",
+        "各プレイでは、リアルタイムのエイミングと、Spellcraft・Sustain・Martial Forces・Economyの4系統に分かれたゴールド強化ツリーが融合します。絶え間ないブライトダメージの消耗が各戦闘を殲滅レースに変えるため、爆発的な範囲魔法、Spirit Drainによる回復、ユニットのシナジーのバランスが、ネクロマンサーキングを倒す鍵となります。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "Baffled Engineer"
+        },
+        {
+          "label": "パブリッシャー",
+          "value": "Level Up Gaming"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "PC（Steam）"
+        },
+        {
+          "label": "ジャンル",
+          "value": "インクリメンタル防衛"
+        },
+        {
+          "label": "リリース",
+          "value": "2026年10月13日"
+        },
+        {
+          "label": "価格",
+          "value": "$6.99"
+        },
+        {
+          "label": "プレイ時間",
+          "value": "30〜60分"
+        },
+        {
+          "label": "ボス戦",
+          "value": "3"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Legion Breaker Wikiを探索",
+      "description": "Legion Breakerのあらゆるシステムを掘り下げましょう。呪文ビルド、スキルツリーの優先順位、聖軍の編成、ボス戦略、最新のパッチノートまで。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Legion Breaker初心者ガイド",
+          "description": "このモジュールでは、ウィザードとしての始め方、アンデッドの倒し方、ゴールドの稼ぎ方、効率的な進行方法など、新規プレイヤーに必要な基本を解説します。上級ビルドに挑む前に、主要システムを理解するのに役立ちます。",
+          "href": "/guide/legion-breaker-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "各プレイは独りのバトルメイジとして始まり、メイン呪文の投射物をカーソルに向けて放ち、骨の兵士が近づく前に撃破します。"
+            },
+            {
+              "label": "2",
+              "detail": "絶え間ないブライトダメージのHP減少には素早い殲滅で対抗しましょう。敵を倒すたびにSpirit Drainが発動し、HPバーが回復します。"
+            },
+            {
+              "label": "3",
+              "detail": "序盤のゴールドはFortitudeに投資して最大HPを高め、最初のアンデッドウェーブを生き延びる余裕を確保しましょう。"
+            },
+            {
+              "label": "4",
+              "detail": "Oathsworn Guardの槍兵を解放して群れを体でせき止め、Temple Huntsmenの弓兵を加えて画面外への単体攻撃と空中への対応を補いましょう。"
+            },
+            {
+              "label": "5",
+              "detail": "Fireballなどの範囲強化を重ね、一度の詠唱で密集した敵集団をまとめて爆発させましょう。"
+            },
+            {
+              "label": "6",
+              "detail": "各ボスの手前でゴールドを貯め、コアダメージと持続ノードに一気に投資して、厳しいフェーズ移行を生き延びましょう。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Legion Breaker呪文ガイド",
+          "description": "このセクションでは、使用可能な魔法、強化ルート、元素攻撃と秘術攻撃を組み合わせる戦略など、呪文システムを解説します。戦況に応じてどの呪文が有効かを学べます。",
+          "href": "/mechanics/legion-breaker-spell-system",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Fireball",
+              "detail": "孤立した着弾を広範囲の爆発に変え、密集したアンデッドの大群を薙ぎ払う範囲強化。"
+            },
+            {
+              "label": "Fragments",
+              "detail": "Resounding Fragments I〜IIIは、主弾の着弾を跳ねる破片に分裂させ、前進する部隊全体を連鎖で貫きます。"
+            },
+            {
+              "label": "Arcane",
+              "detail": "投射物の着弾と爆発半径の基礎スケーリングで、装甲スケルトンへのバーストダメージを支えます。"
+            },
+            {
+              "label": "Flare",
+              "detail": "Solar Flareは長クールダウンのバースト呪文で、そのスタンがボスの重い攻撃を中断させ、よろめかせます。"
+            },
+            {
+              "label": "Aim Lead",
+              "detail": "動く敵の少し前方を狙い、俊足の走者やグールを投射物の軌道へ誘い込みましょう。"
+            },
+            {
+              "label": "Splash",
+              "detail": "範囲半径の強化を優先し、敵の塊を素早く処理してウェーブを通じて殲滅の勢いを保ちましょう。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Legion Breakerスキルツリーガイド",
+          "description": "このモジュールでは、スキルツリーの進行システム、強化の選択肢、ダメージ・攻撃速度・総合戦闘力の高め方を解説します。キャンペーン中により強いビルドを計画するのに役立ちます。",
+          "href": "/progression/legion-breaker-skills",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Arcane Offense——呪文ダメージ、詠唱テンポ、投射物分裂が、群れの処理とボスへのバーストの両方を支えます。"
+            },
+            {
+              "label": "A",
+              "detail": "Vital Preservation——最大HPとライフ回復は、絶え間ないブライトダメージの消耗に直接対抗します。"
+            },
+            {
+              "label": "B",
+              "detail": "Martial Bastion——槍兵と弓兵の召喚が、受動的なレーン制圧と手放しのダメージを追加します。"
+            },
+            {
+              "label": "C",
+              "detail": "BountyとEconomy——キル毎ゴールドのノードは成長を速めますが、単独で勝敗を決めることはまれです。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Legion Breaker軍団ガイド",
+          "description": "このセクションでは、ウィザードと共に戦う聖軍の徴兵と強化に焦点を当てます。部隊の成長と、ユニットと呪文を組み合わせて戦場での性能を高める方法を解説します。",
+          "href": "/mechanics/legion-breaker-army-building",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Spearmen",
+              "detail": "前線のOathsworn Guardは群れを体でせき止め、アンデッドが防御線を突破するのを防ぎます。"
+            },
+            {
+              "label": "Archers",
+              "detail": "Temple Huntsmenは遠距離から単体斉射を放ち、俊足の走者、後衛の詠唱者、空中ユニットを狙い撃ちます。"
+            },
+            {
+              "label": "Vanguard",
+              "detail": "補助のVanguard部隊は、装甲の巨躯や突進するブルートを、ウィザードに到達する前に怯ませます。"
+            },
+            {
+              "label": "Frontline",
+              "detail": "近接ユニットを隘路に配置し、バトルメイジがその後ろの安全な位置から詠唱できるようにしましょう。"
+            },
+            {
+              "label": "Backline",
+              "detail": "弓兵は耐久力のある前線と組み合わせましょう。防御のない遠隔ユニットは、ウェーブが突破された瞬間に蹂躙されます。"
+            },
+            {
+              "label": "Gold Cost",
+              "detail": "大軍の維持は高コストなので、各プレイで呪文強化への支出とユニット召喚の予算を調整しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Legion Breakerボスガイド",
+          "description": "このモジュールでは、戦場のボス、敵の脅威、より強力なアンデッド軍団を倒すための推奨戦略を紹介します。ボス関連の進行支援を求めるプレイヤー向けです。",
+          "href": "/combat/legion-breaker-boss-fight",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Commander",
+              "detail": "序盤のアンデッド指揮官は重い斬撃を予告するので、誘ってから前線を立て直しましょう。"
+            },
+            {
+              "label": "Necro King",
+              "detail": "ネクロマンサーキングはキャンペーン最後の試練で、攻撃の高速化と増援を伴いながらフェーズごとに激化します。"
+            },
+            {
+              "label": "Phase 1",
+              "detail": "聖軍が前線を支え最初のウェーブを受けている間に、持続的な単体バーストで開幕しましょう。"
+            },
+            {
+              "label": "Phase 2",
+              "detail": "斬撃ダメージが増すため、脆い補助ユニットを下げ、前線の召喚を更新しましょう。"
+            },
+            {
+              "label": "Final Burn",
+              "detail": "群衆制御とSolar Flareのスタンを連鎖させ、次の増援ウェーブが湧く前にボスを焼き切りましょう。"
+            },
+            {
+              "label": "Crescent",
+              "detail": "Crescent Anchorの陣形を使い、ボスがウィザードの詠唱範囲に近づくのを物理的に阻みましょう。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Legion Breaker強化ガイド",
+          "description": "このセクションでは、ゴールドの使い方、強化の優先順位、パワー成長を最大化する進行判断を解説します。効率的な強化ルートを求めるプレイヤー向けに設計されています。",
+          "href": "/progression/legion-breaker-upgrades",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Damage",
+              "detail": "まずコアの呪文ダメージと爆発半径を購入し、序盤のウェーブを長引かせず1〜2発で倒しましょう。"
+            },
+            {
+              "label": "Fortitude",
+              "detail": "早めに最大HPを高め、容赦ないブライトダメージの消耗に対する生存余裕を広げましょう。"
+            },
+            {
+              "label": "Drain",
+              "detail": "Spirit Drainを積み上げ、キルのたびに回復量を増やして受動的な減少を相殺しましょう。"
+            },
+            {
+              "label": "Summons",
+              "detail": "自分の呪文ダメージで基本のアンデッドウェーブを楽に処理できるようになってから、ユニット強化に資金を回しましょう。"
+            },
+            {
+              "label": "Economy",
+              "detail": "キル毎ゴールドのノードは1プレイを通じて複利のように効き、中盤までに元が取れます。"
+            },
+            {
+              "label": "Priority",
+              "detail": "まとめて使うのが鍵です。ボスの手前でゴールドを貯め、末端の実用パークに薄く配るのは避けましょう。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Legion Breakerアップデート",
+          "description": "このモジュールでは、開発元による公式の開発アップデート、バランス調整、リリース情報をまとめます。新機能やゲームプレイの調整をプレイヤーに伝えます。",
+          "href": "/release/legion-breaker-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "10月13日",
+              "detail": "公式ローンチ——Legion BreakerがPC向けSteamで$6.99（10月下旬まで20%のローンチ割引）で配信開始。",
+              "badge": "配信中"
+            },
+            {
+              "label": "Launch",
+              "detail": "配信開始から24時間以内にSteamで「非常に好評」の評価を獲得しました。"
+            },
+            {
+              "label": "v1.0",
+              "detail": "基本キャンペーンには、激化する3つのボス戦と、30〜60分の完全なプレイループが含まれます。"
+            },
+            {
+              "label": "Demo",
+              "detail": "購入前に呪文と軍団のシステムを試せる無料のLegion Breaker体験版がSteamで配信中です。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Legion Breakerダウンロード",
+          "description": "このモジュールでは、完全版のゲームページや体験版の有無など、公式のダウンロードとストア情報を提供します。Legion Breakerへ合法的にアクセスする方法を素早く見つけられます。",
+          "href": "/release/legion-breaker-download",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Steam",
+              "detail": "PC向け公式版をSteamで$6.99、20%のローンチ割引で$5.59で購入できます。"
+            },
+            {
+              "label": "Demo",
+              "detail": "完全版を購入する前に、Steamの無料Legion Breaker体験版を試しましょう。"
+            },
+            {
+              "label": "Bundles",
+              "detail": "Fracture Field、Limit Break、Greedlandのバンドルは、相性の良いインディータイトルと本作をセットにしています。"
+            },
+            {
+              "label": "Size",
+              "detail": "インストール容量は極めて軽量なので、購入後ほぼ即座にダウンロードが完了します。"
+            },
+            {
+              "label": "PC Only",
+              "detail": "Legion BreakerはPC向けリリースで、ローンチ時点でコンソール版やモバイル版は発表されていません。"
+            },
+            {
+              "label": "Patches",
+              "detail": "公式チャネルで購入すれば、最新のバランス修正やクラウドセーブを利用できます。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "Legion Breakerに関する最も一般的な質問への手早い回答。",
+      "items": [
+        {
+          "question": "Legion Breakerとは？",
+          "answer": "Legion Breakerは、開発元Baffled Engineerによるアクティブ・インクリメンタル防衛ゲームで、Level Up GamingとGamersky Gamesがパブリッシュしています。プレイヤーは独りのバトルメイジを操り、絶え間ないアンデッドのウェーブに呪文を放ちながら、槍兵と弓兵からなる聖軍を成長させて指揮します。"
+        },
+        {
+          "question": "Legion Breakerは無料で遊べますか？",
+          "answer": "いいえ。Legion BreakerはSteamの有料PCタイトルで、価格は$6.99、20%の導入割引により10月下旬まで$5.59になります。無料の体験版も利用できます。"
+        },
+        {
+          "question": "Legion Breakerの1回のプレイ時間は？",
+          "answer": "Legion Breakerのキャンペーン1周は、激化する3つのボス戦を含めておよそ30〜60分です。ただし強化の優先順位を把握すれば、より速いクリアも可能です。"
+        },
+        {
+          "question": "Legion Breakerのブライトダメージとは？",
+          "answer": "ブライトダメージは、戦闘開始の瞬間から持続する受動的なHP減少です。Legion Breakerでは戦闘タイマーの役割を果たすため、素早く倒し、Spirit Drainの回復に頼って生き延びましょう。"
+        },
+        {
+          "question": "初心者はLegion Breakerでどの強化を最初に買うべき？",
+          "answer": "コアの呪文ダメージと最大HPのFortitudeを優先し、次に持続のSpirit Drainを選びましょう。Legion Breakerでは、序盤にゴールドを末端の実用パークへ薄く配ると、最初のボスに対してダメージが不足しがちです。"
+        },
+        {
+          "question": "Legion Breakerにコードはありますか？",
+          "answer": "Legion Breakerは買い切りのシングルプレイPCゲームで、引き換えコードはありません。進行はコード報酬ではなく、戦闘で得たゴールドとプレイ中の強化ツリーによって進みます。"
+        },
+        {
+          "question": "Legion Breakerはどのプラットフォームで遊べますか？",
+          "answer": "Legion BreakerはSteamを通じてPCで利用できます。現在、コンソール版やモバイル版のLegion Breakerはありません。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "軍団を打ち破る準備はできた？",
+      "description": "最初の呪文から終盤のボス戦まで、コミュニティWikiが無料で最新のLegion Breakerガイドを提供します。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Steamでプレイ"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Legion Breaker初心者ガイド",
+    "overviewDescription": "最初の数時間、体験版のコツ、基本戦略、聖軍キャンペーンの完全攻略までを網羅した初心者ガイドでLegion Breakerを始めましょう。"
+  },
+  "mechanics": {
+    "overviewTitle": "Legion Breakerゲームメカニクス",
+    "overviewDescription": "軍団編成、群れの防衛、アイドル／インクリメンタルのループ、呪文システムが各プレイでどうかみ合うかを学びましょう。"
+  },
+  "combat": {
+    "overviewTitle": "Legion Breaker戦闘・ボスガイド",
+    "overviewDescription": "バトルメイジの戦術、アンデッド対策、最初のボスとネクロマンサーキングの段階的戦略でLegion Breakerの戦闘を極めましょう。"
+  },
+  "progression": {
+    "overviewTitle": "Legion Breaker進行ガイド",
+    "overviewDescription": "XP、スキルポイント、強化、進行曲線の全体を扱うガイドで、Legion Breakerをより速くレベル上げし、より多くを解放しましょう。"
+  },
+  "builds": {
+    "overviewTitle": "Legion Breakerビルド",
+    "overviewDescription": "最強のLegion Breakerビルド、聖軍の編成、メイジ構成、呪文重視の装備でプレイを計画しましょう。"
+  },
+  "release": {
+    "overviewTitle": "Legion Breakerリリースとダウンロード",
+    "overviewDescription": "Legion Breakerの発売日、Steamページ、ダウンロード方法、SteamDBのライブプレイヤー統計までを網羅。"
+  },
+  "community": {
+    "overviewTitle": "Legion Breakerコミュニティ",
+    "overviewDescription": "DiscordやRedditでLegion Breakerのプレイヤーを見つけ、レビューを読み、公式トレーラーを視聴しましょう。"
+  },
+  "shared": {
+    "wikiNavigation": "Wikiナビゲーション",
+    "activeCodes": "有効なコード",
+    "updated": "更新",
+    "viewAllCodes": "すべてのアップデートを見る",
+    "playOnSteam": "Steamでプレイ",
+    "inThisSection": "このセクション",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "まだガイドがありません。しばらくしてからご確認ください！"
+  },
+  "footer": {
+    "aboutTitle": "Legion Breaker Wiki",
+    "about": "Legion Breaker Wikiは、呪文、スキルツリー、聖軍ビルド、ボス、そして必須の進行知識を扱う、ファン制作の独立系ガイドハブです。新規プレイヤーにもベテランにも役立ちます。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的事項",
+    "copyright": "2026 Legion Breaker Wiki. Baffled Engineer、Level Up Gaming、Valve Corporationとは提携していません。",
+    "description": "Steamのダークファンタジー・アクションストラテジー。敵の軍団を打ち破り、強力な呪文を極め、聖軍を率いよう。",
+    "playGame": "Steamでプレイ",
+    "officialDiscord": "Steamコミュニティハブ",
+    "officialYoutube": "公式トレーラー",
+    "beginnerGuide": "初心者ガイド",
+    "mechanicsGuides": "メカニクスガイド",
+    "bossGuides": "ボスガイド",
+    "buildGuide": "ビルドガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}

@@ -1,1 +1,539 @@
-{}
+{
+  "site": {
+    "name": "Legion Breaker Wiki",
+    "shortName": "Legion Breaker",
+    "tagline": "Hechizos, árboles de habilidades, ejército sagrado y guías de progresión",
+    "description": "Wiki de Legion Breaker hecha por fans que cubre guías para principiantes, builds de hechizos, mejoras del árbol de habilidades, estrategias de ejército sagrado y guías completas de progresión.",
+    "legalNotice": "Wiki de fans no oficial. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "mechanics": "Mecánicas",
+    "combat": "Combate",
+    "progression": "Progresión",
+    "builds": "Builds",
+    "release": "Lanzamiento",
+    "community": "Comunidad"
+  },
+  "home": {
+    "meta": {
+      "title": "Legion Breaker Wiki: builds, guías y estrategias",
+      "description": "Explora Legion Breaker Wiki y encuentra builds, guías de combate, información de personajes, estrategias, guías paso a paso y las últimas novedades del juego para jugadores."
+    },
+    "hero": {
+      "eyebrow": "Juego de estrategia y acción de fantasía oscura",
+      "title": "Legion Breaker Wiki",
+      "description": "Legion Breaker es un juego de combate de fantasía oscura centrado en romper legiones enemigas, dominar habilidades poderosas y progresar a través de batallas cada vez más difíciles.",
+      "stats": [
+        "Guías para principiantes",
+        "Builds de hechizos y habilidades",
+        "Consejos de ejército sagrado",
+        "Actualizaciones semanales"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Jugar en Steam",
+      "tertiaryCta": "Códigos activos",
+      "videoLabel": "Tráiler oficial"
+    },
+    "updates": {
+      "title": "Últimas novedades",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu viaje en Legion Breaker",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende el bucle central de Legion Breaker: apunta los proyectiles de tus hechizos a la horda de no muertos, contrarresta el drenaje constante de Daño de Plaga y gasta tu primer oro en los nodos de mejora adecuados."
+        },
+        {
+          "number": "2",
+          "title": "Subida de nivel más rápida",
+          "description": "Sigue las rutas de oro y de nodos más eficientes para que tu mago de batalla escale rápido durante las primeras oleadas y alcance los umbrales de daño clave antes del primer jefe."
+        },
+        {
+          "number": "3",
+          "title": "Mejores hechizos y builds",
+          "description": "Combina proyectiles explosivos con los rebotes de fragmentos de Resounding Fragments para limpiar densos grupos de no muertos y reventar a los élites blindados."
+        },
+        {
+          "number": "4",
+          "title": "Guía del primer jefe",
+          "description": "Prepara tu ejército sagrado y tu rotación de hechizos para sobrevivir a las fases del Rey Nigromante y cerrar la campaña con una victoria limpia."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias ahora",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Guía de subida de nivel",
+        "Sistema de hechizos",
+        "Combates contra jefes"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "El bucle central de Legion Breaker: apuntar hechizos, contrarrestar el Daño de Plaga y gastar tu primer oro.",
+          "href": "/guide/legion-breaker-beginner-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Mejores builds",
+          "description": "Combinaciones óptimas de hechizos, árbol de habilidades y ejército para superar cada oleada de Legion Breaker.",
+          "href": "/builds/legion-breaker-best-build"
+        },
+        {
+          "badge": "Popular",
+          "title": "Sistema de hechizos",
+          "description": "Física de proyectiles, cascadas de rebote de fragmentos y los nodos de mejora detrás de tu daño explosivo.",
+          "href": "/mechanics/legion-breaker-spell-system"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Guía del árbol de habilidades",
+          "description": "Spellcraft, Sustain, Martial Forces y Economía: cómo repartir tu oro en Legion Breaker.",
+          "href": "/progression/legion-breaker-skills"
+        },
+        {
+          "badge": "Popular",
+          "title": "Creación de ejército",
+          "description": "Lanceros, arqueros y unidades de vanguardia que aguantan la línea mientras tu mago de batalla lanza hechizos.",
+          "href": "/mechanics/legion-breaker-army-building"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Guía de combates contra jefes",
+          "description": "Formaciones, rotaciones de hechizos y estrategias por fases para cada jefe de Legion Breaker.",
+          "href": "/combat/legion-breaker-boss-fight"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Rey Nigromante",
+          "description": "Estrategia completa para el enfrentamiento final de Legion Breaker y sus fases de jefe en escalada.",
+          "href": "/combat/legion-breaker-necromancer-king"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Guía de mejoras",
+          "description": "Dónde gastar el oro primero y cómo mantener tu daño escalando hasta el final de la partida.",
+          "href": "/progression/legion-breaker-upgrades"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Descarga y Steam",
+          "description": "Precio de Legion Breaker, packs, acceso a la demo y requisitos de sistema para PC.",
+          "href": "/release/legion-breaker-download"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Legion Breaker?",
+      "paragraphs": [
+        "Legion Breaker es un juego activo de defensa incremental del desarrollador indie Baffled Engineer, publicado por Level Up Gaming y Gamersky Games. Controlas a un mago de batalla solitario que mantiene la línea contra legiones interminables de no muertos, apuntando proyectiles de hechizos hacia tu cursor mientras un ejército sagrado de lanceros y arqueros, cada vez mayor, lucha a tu lado.",
+        "Cada partida combina apuntado en tiempo real con un profundo árbol de mejoras alimentado por oro, dividido entre Spellcraft, Sustain, Martial Forces y Economía. Un drenaje constante de Daño de Plaga convierte cada batalla en una carrera por matar, así que equilibrar magia explosiva de área, recuperación de Spirit Drain y sinergia de unidades es la clave para derrocar al Rey Nigromante."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Baffled Engineer"
+        },
+        {
+          "label": "Distribuidora",
+          "value": "Level Up Gaming"
+        },
+        {
+          "label": "Plataforma",
+          "value": "PC (Steam)"
+        },
+        {
+          "label": "Género",
+          "value": "Defensa incremental"
+        },
+        {
+          "label": "Lanzamiento",
+          "value": "13 oct 2026"
+        },
+        {
+          "label": "Precio",
+          "value": "$6.99"
+        },
+        {
+          "label": "Duración de partida",
+          "value": "30-60 min"
+        },
+        {
+          "label": "Combates contra jefes",
+          "value": "3"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora Legion Breaker Wiki",
+      "description": "Sumérgete en todos los sistemas de Legion Breaker: builds de hechizos, prioridades del árbol de habilidades, composiciones de ejército sagrado, estrategias contra jefes y las últimas notas del parche.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de Legion Breaker",
+          "description": "Este módulo ofrece a los nuevos jugadores los conceptos básicos del juego, como empezar como mago, derrotar a enemigos no muertos, ganar oro y progresar de forma eficiente. Ayuda a los principiantes a entender los sistemas centrales antes de explorar builds avanzadas.",
+          "href": "/guide/legion-breaker-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Empieza cada partida como un mago de batalla solitario y apunta los proyectiles de tu hechizo principal hacia el cursor para reventar a los soldados esqueléticos antes de que se acerquen."
+            },
+            {
+              "label": "2",
+              "detail": "Contrarresta el drenaje constante de vida por Daño de Plaga matando rápido, porque cada muerte enemiga activa Spirit Drain y restaura una parte de tu barra de vida."
+            },
+            {
+              "label": "3",
+              "detail": "Invierte el oro inicial en Fortitude para aumentar tu vida máxima y ampliar tu margen de supervivencia durante las primeras oleadas de no muertos."
+            },
+            {
+              "label": "4",
+              "detail": "Desbloquea a los lanceros Oathsworn Guard para bloquear enemigos con el cuerpo y luego añade arqueros Temple Huntsmen para cobertura a distancia y contra unidades aéreas."
+            },
+            {
+              "label": "5",
+              "detail": "Combina mejoras de área como Fireball para que un solo lanzamiento detone grupos apretados en lugar de golpear a un objetivo a la vez."
+            },
+            {
+              "label": "6",
+              "detail": "Ahorra oro antes de cada puerta de jefe y luego inviértelo en nodos de daño y sustento para sobrevivir a las transiciones de fase más duras."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía de hechizos de Legion Breaker",
+          "description": "Esta sección cubre el sistema de hechizos, incluidas las habilidades mágicas disponibles, las rutas de mejora y las estrategias para combinar ataques elementales y arcanos. Los jugadores pueden aprender qué hechizos son útiles en cada situación de combate.",
+          "href": "/mechanics/legion-breaker-spell-system",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Fireball",
+              "detail": "Mejora explosiva de área que convierte impactos aislados en detonaciones amplias contra hordas apretadas de no muertos."
+            },
+            {
+              "label": "Fragments",
+              "detail": "Resounding Fragments I a III fragmentan los impactos principales en esquirlas rebotantes que encadenan por todo un escuadrón en avance."
+            },
+            {
+              "label": "Arcane",
+              "detail": "Escalado base del impacto del proyectil y del radio de explosión que impulsa tu daño explosivo contra esqueletos blindados."
+            },
+            {
+              "label": "Flare",
+              "detail": "Solar Flare es un hechizo explosivo de enfriamiento largo cuyo aturdimiento interrumpe y tambalea los ataques pesados de los jefes."
+            },
+            {
+              "label": "Aim Lead",
+              "detail": "Dispara ligeramente por delante de los objetivos en movimiento para que los corredores rápidos y los ghouls caminen directos a la trayectoria de tu proyectil."
+            },
+            {
+              "label": "Splash",
+              "detail": "Prioriza las mejoras de radio de salpicadura para limpiar grupos más rápido y mantener alto tu ritmo de bajas en cada oleada."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guía del árbol de habilidades de Legion Breaker",
+          "description": "Este módulo explica el sistema de progresión del árbol de habilidades, las opciones de mejora y las formas de aumentar el daño, la velocidad de ataque y la potencia de combate general. Ayuda a los jugadores a planificar builds más fuertes durante la campaña.",
+          "href": "/progression/legion-breaker-skills",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Arcane Offense: el daño de hechizos, el ritmo de lanzamiento y la división de proyectiles sostienen tanto la limpieza de hordas como el daño explosivo contra jefes."
+            },
+            {
+              "label": "A",
+              "detail": "Vital Preservation: la vida máxima y la recuperación de vida contrarrestan directamente el incesante drenaje de Daño de Plaga."
+            },
+            {
+              "label": "B",
+              "detail": "Martial Bastion: los lanceros y las invocaciones de arqueros añaden control de carril pasivo y daño sin intervención."
+            },
+            {
+              "label": "C",
+              "detail": "Bounty y Economía: los nodos de oro por baja aceleran el escalado, pero rara vez deciden una pelea por sí solos."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía de ejército de Legion Breaker",
+          "description": "Esta sección se centra en reclutar y mejorar el ejército sagrado que lucha junto al mago. Explica la progresión de tropas y cómo combinar unidades con hechizos para un mejor rendimiento en el campo de batalla.",
+          "href": "/mechanics/legion-breaker-army-building",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Spearmen",
+              "detail": "Las unidades de primera línea Oathsworn Guard bloquean hordas con el cuerpo e impiden que los no muertos se cuelen por tu perímetro defensivo."
+            },
+            {
+              "label": "Archers",
+              "detail": "Los Temple Huntsmen lanzan salvas de objetivo único a larga distancia, eliminando corredores rápidos, lanzadores de retaguardia y unidades aéreas."
+            },
+            {
+              "label": "Vanguard",
+              "detail": "Las tropas auxiliares de Vanguard tambalean a los colosos blindados y a los brutos que cargan antes de que lleguen a tu mago."
+            },
+            {
+              "label": "Frontline",
+              "detail": "Mantén las unidades cuerpo a cuerpo en el punto de estrangulamiento para que tu mago de batalla lance hechizos con seguridad desde un hueco detrás de ellas."
+            },
+            {
+              "label": "Backline",
+              "detail": "Empareja arqueros con una línea frontal resistente, porque las unidades a distancia sin defensa son arrolladas en cuanto una oleada rompe la línea."
+            },
+            {
+              "label": "Gold Cost",
+              "detail": "Desplegar un ejército grande es caro, así que presupuesta las invocaciones de unidades frente a tu gasto en mejoras de hechizos en cada partida."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de jefes de Legion Breaker",
+          "description": "Este módulo ofrece información sobre los jefes del campo de batalla, los desafíos enemigos y las estrategias recomendadas para derrotar a fuerzas no muertas más fuertes. Está dirigido a jugadores que buscan ayuda de progresión relacionada con jefes.",
+          "href": "/combat/legion-breaker-boss-fight",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Commander",
+              "detail": "Los comandantes no muertos tempranos anuncian tajos pesados, así que provoca el preaviso y luego reposiciona tu primera línea."
+            },
+            {
+              "label": "Necro King",
+              "detail": "El Rey Nigromante es la prueba final de la campaña, escalando por fases con ataques más rápidos y esbirros adicionales."
+            },
+            {
+              "label": "Phase 1",
+              "detail": "Abre con daño explosivo sostenido de objetivo único mientras tu ejército sagrado aguanta la línea y absorbe la primera oleada."
+            },
+            {
+              "label": "Phase 2",
+              "detail": "El daño de tajo aumenta, así que retira las unidades auxiliares frágiles y renueva tus invocaciones de primera línea."
+            },
+            {
+              "label": "Final Burn",
+              "detail": "Encadena control de masas y aturdimientos de Solar Flare, y luego quema al jefe antes de que aparezca la siguiente oleada de esbirros."
+            },
+            {
+              "label": "Crescent",
+              "detail": "Usa la formación Crescent Anchor para bloquear físicamente al jefe y evitar que se acerque al perímetro de lanzamiento de tu mago."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía de mejoras de Legion Breaker",
+          "description": "Esta sección explica el uso del oro, las prioridades de mejora y las decisiones de progresión que ayudan a los jugadores a maximizar su crecimiento de poder. Está diseñada para jugadores que buscan rutas de mejora eficientes.",
+          "href": "/progression/legion-breaker-upgrades",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Damage",
+              "detail": "Compra primero el daño de hechizo central y el radio de explosión para que las primeras oleadas mueran de uno o dos golpes en lugar de quedarse rezagadas."
+            },
+            {
+              "label": "Fortitude",
+              "detail": "Aumenta la vida máxima pronto para ampliar tu margen de supervivencia frente al implacable drenaje de Daño de Plaga."
+            },
+            {
+              "label": "Drain",
+              "detail": "Acumula Spirit Drain para que cada baja devuelva más vida y compense la degeneración pasiva."
+            },
+            {
+              "label": "Summons",
+              "detail": "Financia las mejoras de unidades cuando tu propio daño de hechizos ya pueda limpiar cómodamente las oleadas básicas de no muertos."
+            },
+            {
+              "label": "Economy",
+              "detail": "Los nodos de oro por baja se acumulan a lo largo de una partida y se pagan solos a mitad de juego."
+            },
+            {
+              "label": "Priority",
+              "detail": "Gasta a ráfagas: ahorra oro antes de las puertas de jefe en lugar de repartirlo entre mejoras de utilidad marginales."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Actualizaciones de Legion Breaker",
+          "description": "Este módulo recopila las actualizaciones oficiales de desarrollo, los cambios de equilibrio y la información de lanzamiento del desarrollador. Mantiene a los jugadores informados sobre nuevas funciones y ajustes de jugabilidad.",
+          "href": "/release/legion-breaker-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "13 oct",
+              "detail": "Lanzamiento oficial: Legion Breaker salió en Steam para PC a $6.99 con un 20% de descuento de lanzamiento hasta finales de octubre.",
+              "badge": "En vivo"
+            },
+            {
+              "label": "Launch",
+              "detail": "Debutó con una valoración Muy positiva en Steam en las primeras 24 horas de disponibilidad."
+            },
+            {
+              "label": "v1.0",
+              "detail": "La campaña base incluye tres enfrentamientos de jefe en escalada y un bucle de partida completo de 30 a 60 minutos."
+            },
+            {
+              "label": "Demo",
+              "detail": "Hay una demo gratuita de Legion Breaker disponible en Steam para probar los sistemas de hechizos y ejército antes de comprar."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Descarga de Legion Breaker",
+          "description": "Este módulo ofrece información oficial de descarga y tienda, incluida la página completa del juego y la disponibilidad de la demo. Ayuda a los usuarios a encontrar rápidamente formas legítimas de acceder a Legion Breaker.",
+          "href": "/release/legion-breaker-download",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Steam",
+              "detail": "Compra el lanzamiento oficial para PC en Steam por $6.99, o $5.59 con el 20% de descuento de lanzamiento."
+            },
+            {
+              "label": "Demo",
+              "detail": "Prueba la demo gratuita de Legion Breaker en Steam antes de comprometerte con el juego completo."
+            },
+            {
+              "label": "Bundles",
+              "detail": "Los packs Fracture Field, Limit Break y Greedland combinan el juego con títulos indie complementarios."
+            },
+            {
+              "label": "Size",
+              "detail": "La instalación es excepcionalmente ligera, así que la descarga se completa casi al instante tras la compra."
+            },
+            {
+              "label": "PC Only",
+              "detail": "Legion Breaker es un lanzamiento para PC, sin versión para consola ni móvil anunciada en el lanzamiento."
+            },
+            {
+              "label": "Patches",
+              "detail": "Comprar por canales oficiales te mantiene al día con los parches de equilibrio y el guardado en la nube."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre Legion Breaker.",
+      "items": [
+        {
+          "question": "¿Qué es Legion Breaker?",
+          "answer": "Legion Breaker es un juego activo de defensa incremental del desarrollador Baffled Engineer, publicado por Level Up Gaming y Gamersky Games. Controlas a un mago de batalla solitario que apunta hechizos a oleadas interminables de no muertos mientras comanda un ejército sagrado creciente de lanceros y arqueros."
+        },
+        {
+          "question": "¿Legion Breaker es gratis?",
+          "answer": "No. Legion Breaker es un título de PC de pago en Steam con un precio de $6.99, con un 20% de descuento de lanzamiento que lo deja en $5.59 hasta finales de octubre. También hay una demo gratuita disponible."
+        },
+        {
+          "question": "¿Cuánto dura una partida de Legion Breaker?",
+          "answer": "Una campaña completa de Legion Breaker dura aproximadamente entre 30 y 60 minutos a lo largo de tres batallas contra jefes en escalada, aunque es posible completarla más rápido una vez que conoces las prioridades de mejora."
+        },
+        {
+          "question": "¿Qué es el Daño de Plaga en Legion Breaker?",
+          "answer": "El Daño de Plaga es un drenaje pasivo constante de vida que hace efecto desde el momento en que empieza la batalla. Actúa como un temporizador de combate en Legion Breaker, así que mata rápido y apóyate en la recuperación de Spirit Drain para sobrevivir."
+        },
+        {
+          "question": "¿Qué mejoras deberían comprar primero los principiantes en Legion Breaker?",
+          "answer": "Prioriza el daño de hechizo central y Fortitude para la vida máxima, y luego Spirit Drain para el sustento. En Legion Breaker, repartir el oro entre mejoras de utilidad marginales al principio suele dejar tu daño demasiado bajo para el primer jefe."
+        },
+        {
+          "question": "¿Legion Breaker tiene códigos?",
+          "answer": "Legion Breaker es un juego de PC de pago para un jugador, sin códigos canjeables. La progresión viene del oro ganado en batalla y del árbol de mejoras de cada partida, no de recompensas por códigos."
+        },
+        {
+          "question": "¿En qué plataformas está Legion Breaker?",
+          "answer": "Legion Breaker está disponible en PC a través de Steam. Actualmente no hay versión de Legion Breaker para consola ni móvil."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para romper la legión?",
+      "description": "Desde tus primeros hechizos hasta las batallas finales contra jefes, nuestra wiki comunitaria te cubre con guías de Legion Breaker gratuitas y actualizadas.",
+      "primary": "Leer la guía para principiantes",
+      "secondary": "Jugar en Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guías para principiantes de Legion Breaker",
+    "overviewDescription": "Empieza en Legion Breaker con guías para principiantes que cubren las primeras horas, consejos para la demo, la estrategia central y un recorrido completo de la campaña del ejército sagrado."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de Legion Breaker",
+    "overviewDescription": "Aprende cómo encajan la creación de ejército, la defensa contra hordas, los bucles idle e incrementales y el sistema de hechizos de Legion Breaker en cada partida."
+  },
+  "combat": {
+    "overviewTitle": "Guías de combate y jefes de Legion Breaker",
+    "overviewDescription": "Domina el combate de Legion Breaker con tácticas de mago de batalla, contramedidas contra no muertos y estrategias paso a paso para el primer jefe y el Rey Nigromante."
+  },
+  "progression": {
+    "overviewTitle": "Guías de progresión de Legion Breaker",
+    "overviewDescription": "Sube de nivel más rápido y desbloquea más en Legion Breaker con guías sobre XP, puntos de habilidad, mejoras y la curva de progresión completa."
+  },
+  "builds": {
+    "overviewTitle": "Builds de Legion Breaker",
+    "overviewDescription": "Planifica tu partida con las mejores builds de Legion Breaker, composiciones de ejército sagrado, configuraciones de mago y equipamientos centrados en hechizos."
+  },
+  "release": {
+    "overviewTitle": "Lanzamiento y descarga de Legion Breaker",
+    "overviewDescription": "Todo sobre la fecha de lanzamiento de Legion Breaker, la página de Steam, las opciones de descarga y las estadísticas de jugadores en vivo de SteamDB."
+  },
+  "community": {
+    "overviewTitle": "Comunidad de Legion Breaker",
+    "overviewDescription": "Encuentra jugadores de Legion Breaker en Discord y Reddit, lee reseñas y mira el tráiler oficial."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todas las novedades",
+    "playOnSteam": "Jugar en Steam",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Legion Breaker Wiki",
+    "about": "Legion Breaker Wiki es un centro de guías independiente creado por fans que cubre hechizos, árboles de habilidades, builds de ejército sagrado, jefes y conocimientos esenciales de progresión tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Legion Breaker Wiki. Sin afiliación con Baffled Engineer, Level Up Gaming ni Valve Corporation.",
+    "description": "Juego de estrategia y acción de fantasía oscura en Steam. Rompe legiones enemigas, domina hechizos poderosos y levanta un ejército sagrado.",
+    "playGame": "Jugar en Steam",
+    "officialDiscord": "Centro de la comunidad de Steam",
+    "officialYoutube": "Tráiler oficial",
+    "beginnerGuide": "Guía para principiantes",
+    "mechanicsGuides": "Guías de mecánicas",
+    "bossGuides": "Guías de jefes",
+    "buildGuide": "Guía de builds",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos del servicio"
+  }
+}
