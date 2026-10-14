@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "combat": "Combat",
+    "progression": "Progression",
+    "builds": "Builds",
+    "release": "Release",
+    "community": "Community"
   },
   "home": {
     "meta": {
@@ -466,12 +473,39 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Legion Breaker Beginner Guides",
+    "overviewDescription": "Start Legion Breaker with beginner guides covering the first hours, demo tips, core strategy, and a full walkthrough of the holy army campaign."
+  },
+  "mechanics": {
+    "overviewTitle": "Legion Breaker Game Mechanics",
+    "overviewDescription": "Learn how Legion Breaker's army building, horde defense, idle and incremental loops, and spell system fit together in every run."
+  },
+  "combat": {
+    "overviewTitle": "Legion Breaker Combat & Boss Guides",
+    "overviewDescription": "Master Legion Breaker combat with battlemage tactics, undead counters, and step-by-step strategies for the first boss and the Necromancer King."
+  },
+  "progression": {
+    "overviewTitle": "Legion Breaker Progression Guides",
+    "overviewDescription": "Level faster and unlock more in Legion Breaker with guides to XP, skill points, upgrades, and the full progression curve."
+  },
+  "builds": {
+    "overviewTitle": "Legion Breaker Builds",
+    "overviewDescription": "Plan your run with the best Legion Breaker builds, holy army compositions, mage setups, and spell-focused loadouts."
+  },
+  "release": {
+    "overviewTitle": "Legion Breaker Release & Download",
+    "overviewDescription": "Everything about the Legion Breaker release date, Steam page, download options, and live player stats from SteamDB."
+  },
+  "community": {
+    "overviewTitle": "Legion Breaker Community",
+    "overviewDescription": "Find Legion Breaker players on Discord and Reddit, read reviews, and watch the official trailer."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
+    "viewAllCodes": "View all updates",
     "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
@@ -496,7 +530,7 @@
     "officialDiscord": "Steam Community Hub",
     "officialYoutube": "Official Trailer",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
+    "mechanicsGuides": "Mechanics Guides",
     "bossGuides": "Boss Guides",
     "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
