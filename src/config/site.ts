@@ -19,18 +19,17 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Legion Breaker Wiki",
+  shortName: "Legion Breaker",
+  logoText: "LB",
+  tagline: "Spells, Skill Trees, Army Builds & Progression Guides",
+  description: "Fan-made Legion Breaker wiki covering beginner guides, spell builds, skill tree upgrades, holy army strategies and full progression walkthroughs.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://legion-breaker.wiki",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://legion-breaker.wiki").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://store.steampowered.com/app/4425980/Legion_Breaker/",
+  heroVideoId: "Qjv2H7hWovs", // Legion Breaker - Official Trailer
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    youtube: "https://www.youtube.com/results?search_query=legion+breaker",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
