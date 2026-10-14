@@ -516,7 +516,9 @@
     "readMore": "Leer más",
     "officialMedia": "Medios oficiales",
     "home": "Inicio",
-    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!",
+    "noActiveCodes": "Actualmente no hay códigos activos",
+    "codesComingSoon": "Vuelve pronto para ver nuevos códigos"
   },
   "footer": {
     "aboutTitle": "Legion Breaker Wiki",
@@ -535,5 +537,10 @@
     "buildGuide": "Guía de builds",
     "privacyPolicy": "Política de privacidad",
     "termsOfService": "Términos del servicio"
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "description": "La guía que buscas puede haberse movido o aún no se ha añadido.",
+    "cta": "Ver guías para principiantes"
   }
 }

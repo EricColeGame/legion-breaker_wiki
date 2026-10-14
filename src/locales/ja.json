@@ -516,7 +516,9 @@
     "readMore": "続きを読む",
     "officialMedia": "公式メディア",
     "home": "ホーム",
-    "noGuidesAvailable": "まだガイドがありません。しばらくしてからご確認ください！"
+    "noGuidesAvailable": "まだガイドがありません。しばらくしてからご確認ください！",
+    "noActiveCodes": "現在利用できるコードはありません",
+    "codesComingSoon": "新しいコードは近日公開予定です"
   },
   "footer": {
     "aboutTitle": "Legion Breaker Wiki",
@@ -535,5 +537,10 @@
     "buildGuide": "ビルドガイド",
     "privacyPolicy": "プライバシーポリシー",
     "termsOfService": "利用規約"
+  },
+  "notFound": {
+    "title": "ページが見つかりません",
+    "description": "お探しのガイドは移動したか、まだ追加されていない可能性があります。",
+    "cta": "初心者ガイドを見る"
   }
 }
