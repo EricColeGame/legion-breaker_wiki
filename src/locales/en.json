@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the core Legion Breaker loop: aim spell projectiles at the undead horde, counter the constant Blight Damage drain, and spend your first Gold on the right upgrade nodes."
         },
         {
           "number": "2",
           "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "description": "Follow the most efficient Gold and node routes so your battlemage scales fast through the opening waves and hits key damage thresholds before the first boss."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Best Spells & Builds",
+          "description": "Stack explosive projectiles with Resounding Fragments shard bounces to clear dense undead clusters and burst down armored elites."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Legion Breaker."
+          "title": "First Boss Guide",
+          "description": "Prepare your holy army and spell rotation to survive the Necromancer King's phases and close out the campaign with a clean victory."
         }
       ]
     },
@@ -66,237 +66,360 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Leveling Guide",
+        "Spell System",
+        "Boss Fights"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
-        },
-        {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "description": "The core Legion Breaker loop: aiming spells, countering Blight Damage, and spending your first Gold.",
+          "href": "/guide/legion-breaker-beginner-guide"
         },
         {
           "badge": "Popular",
           "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "description": "Optimal spell, skill tree, and army combinations for clearing every Legion Breaker wave.",
+          "href": "/builds/legion-breaker-best-build"
+        },
+        {
+          "badge": "Popular",
+          "title": "Spell System",
+          "description": "Projectile physics, shard-bounce cascades, and the upgrade nodes behind your burst damage.",
+          "href": "/mechanics/legion-breaker-spell-system"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "title": "Skill Tree Guide",
+          "description": "Spellcraft, Sustain, Martial Forces, and Economy how to split your Legion Breaker Gold.",
+          "href": "/progression/legion-breaker-skills"
+        },
+        {
+          "badge": "Popular",
+          "title": "Army Building",
+          "description": "Spearmen, archers, and vanguard units that hold the line while your battlemage casts.",
+          "href": "/mechanics/legion-breaker-army-building"
+        },
+        {
+          "badge": "Updated",
+          "title": "Boss Fight Guide",
+          "description": "Formations, spell rotations, and phase strategies for every Legion Breaker boss.",
+          "href": "/combat/legion-breaker-boss-fight"
         },
         {
           "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Necromancer King",
+          "description": "Full strategy for the final Legion Breaker encounter and its escalating boss phases.",
+          "href": "/combat/legion-breaker-necromancer-king"
+        },
+        {
+          "badge": "Updated",
+          "title": "Upgrades Guide",
+          "description": "Where to spend Gold first and how to keep your damage scaling into the late game.",
+          "href": "/progression/legion-breaker-upgrades"
+        },
+        {
+          "badge": "New",
+          "title": "Download & Steam",
+          "description": "Legion Breaker pricing, bundles, demo access, and PC system requirements.",
+          "href": "/release/legion-breaker-download"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Legion Breaker?",
       "paragraphs": [
-        "Legion Breaker is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Legion Breaker is an active incremental defense game from indie developer Baffled Engineer, published by Level Up Gaming and Gamersky Games. You control a lone battlemage holding a line against endless undead legions, aiming spell projectiles toward your cursor while a growing holy army of spearmen and archers fights alongside you.",
+        "Every run blends real-time aiming with a deep Gold-fueled upgrade tree split across Spellcraft, Sustain, Martial Forces, and Economy. A constant Blight Damage drain turns each battle into a race for kills, so balancing explosive area-of-effect magic, Spirit Drain recovery, and unit synergy is the key to toppling the Necromancer King."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Baffled Engineer"
+        },
+        {
+          "label": "Publisher",
+          "value": "Level Up Gaming"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC (Steam)"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Incremental Defense"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Released",
+          "value": "Oct 13, 2026"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Price",
+          "value": "$6.99"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Run Length",
+          "value": "30-60 min"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Boss Fights",
+          "value": "3"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Legion Breaker Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Dive into every Legion Breaker system spell builds, skill tree priorities, holy army compositions, boss strategies, and the latest patch notes.",
       "modules": [
         {
           "order": 1,
-          "name": "Legion Breaker Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/legion-breaker-codes",
-          "displayType": "code-box",
+          "name": "Legion Breaker Beginner Guide",
+          "description": "This module provides new players with essential gameplay basics, including how to start as a wizard, defeat undead enemies, earn gold, and progress efficiently. It helps beginners understand core systems before exploring advanced builds.",
+          "href": "/guide/legion-breaker-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Start each run as a lone battlemage and aim your primary spell projectiles toward the cursor to burst down skeletal soldiers before they close in."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Counter the constant Blight Damage health drain by killing fast, because every enemy death triggers Spirit Drain and restores a chunk of your health bar."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Invest early Gold into Fortitude to raise your maximum HP, giving you a wider survival window during the first undead waves."
+            },
+            {
+              "label": "4",
+              "detail": "Unlock the Oathsworn Guard spearmen to body-block swarms, then add Temple Huntsmen archers for off-screen single-target and air coverage."
+            },
+            {
+              "label": "5",
+              "detail": "Layer area-of-effect upgrades such as Fireball so a single cast detonates packed clusters instead of ticking one target at a time."
+            },
+            {
+              "label": "6",
+              "detail": "Bank Gold before each boss gate, then dump it into core damage and sustain nodes to survive the tougher phase transitions."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/legion-breaker-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Legion Breaker Spells Guide",
+          "description": "This section covers the spell system, including available magic abilities, upgrade paths, and strategies for combining elemental and arcane attacks. Players can learn which spells are useful for different battle situations.",
+          "href": "/mechanics/legion-breaker-spell-system",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Fireball",
+              "detail": "Explosive area-of-effect upgrade that turns isolated impacts into wide detonations against packed undead hordes."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Fragments",
+              "detail": "Resounding Fragments I through III shatter primary hits into bouncing shards that chain across an entire advance squad."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Arcane",
+              "detail": "Base projectile impact and explosion radius scaling that carries your burst damage against armored skeletons."
+            },
+            {
+              "label": "Flare",
+              "detail": "Solar Flare is a long-cooldown burst spell whose stun interrupts and staggers heavy boss attacks."
+            },
+            {
+              "label": "Aim Lead",
+              "detail": "Fire slightly ahead of moving targets so fast runners and ghouls walk straight into your projectile path."
+            },
+            {
+              "label": "Splash",
+              "detail": "Prioritize splash radius upgrades to clear clumps faster and keep your kill momentum high through every wave."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/legion-breaker-tier-list",
+          "name": "Legion Breaker Skill Tree Guide",
+          "description": "This module explains the skill tree progression system, upgrade choices, and ways to improve damage, attack speed, and overall combat power. It helps players plan stronger builds during the campaign.",
+          "href": "/progression/legion-breaker-skills",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Arcane Offense spell damage, cast rhythm, and projectile splitting carry both horde clearing and boss burst damage."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Vital Preservation maximum HP and life recovery directly counter the relentless Blight Damage drain."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Martial Bastion spearmen and archer summons add passive lane control and hands-free damage."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Bounty and Economy gold-per-kill nodes speed up scaling but rarely decide a fight on their own."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/legion-breaker-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Legion Breaker Army Guide",
+          "description": "This section focuses on recruiting and upgrading the holy army that fights alongside the wizard. It explains troop progression and how to combine units with spells for stronger battlefield performance.",
+          "href": "/mechanics/legion-breaker-army-building",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Spearmen",
+              "detail": "Oathsworn Guard frontline units body-block swarms and stop undead from leaking through your defensive perimeter."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Archers",
+              "detail": "Temple Huntsmen deliver long-range single-target salvos, picking off fast runners, backline casters, and air units."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Vanguard",
+              "detail": "Auxiliary Vanguard troops stagger armored juggernauts and charging brutes before they ever reach your wizard."
+            },
+            {
+              "label": "Frontline",
+              "detail": "Keep melee units parked at the choke point so your battlemage can cast safely from a pocket behind them."
+            },
+            {
+              "label": "Backline",
+              "detail": "Pair archers with a tanky front line, because undefended ranged units get overrun the moment a wave breaks through."
+            },
+            {
+              "label": "Gold Cost",
+              "detail": "Fielding a large army is expensive, so budget unit summons against your spell upgrade spending each run."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/legion-breaker-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Legion Breaker Boss Guide",
+          "description": "This module provides information about battlefield bosses, enemy challenges, and recommended strategies for defeating stronger undead forces. It targets players searching for boss-related progression help.",
+          "href": "/combat/legion-breaker-boss-fight",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Commander",
+              "detail": "Early undead commanders telegraph heavy cleaves, so bait the wind-up and then reposition your front line."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Necro King",
+              "detail": "The Necromancer King is the campaign's final test, escalating through phases with faster attacks and extra minions."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Phase 1",
+              "detail": "Open with sustained single-target burst while your holy army holds the line and soaks the first wave."
+            },
+            {
+              "label": "Phase 2",
+              "detail": "Cleave damage ramps up, so pull fragile auxiliary units back and refresh your front-line summons."
+            },
+            {
+              "label": "Final Burn",
+              "detail": "Chain crowd-control and Solar Flare stuns, then burn the boss before the next minion wave spawns."
+            },
+            {
+              "label": "Crescent",
+              "detail": "Use the Crescent Anchor formation to physically block the boss from closing on your wizard's casting perimeter."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/legion-breaker-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Legion Breaker Upgrade Guide",
+          "description": "This section explains gold usage, upgrade priorities, and progression decisions that help players maximize their power growth. It is designed for players looking for efficient upgrade routes.",
+          "href": "/progression/legion-breaker-upgrades",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Damage",
+              "detail": "Buy core spell damage and explosion radius first so early waves die in one or two hits instead of lingering."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Fortitude",
+              "detail": "Raise maximum HP early to widen your survival window against the relentless Blight Damage drain."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Drain",
+              "detail": "Stack Spirit Drain so every kill returns more health and offsets the passive degeneration."
+            },
+            {
+              "label": "Summons",
+              "detail": "Fund unit upgrades once your own spell damage can comfortably clear baseline undead waves."
+            },
+            {
+              "label": "Economy",
+              "detail": "Gold-per-kill nodes compound over a run and pay for themselves by the mid game."
+            },
+            {
+              "label": "Priority",
+              "detail": "Spend in bursts bank Gold before boss gates instead of spreading it thin across fringe utility perks."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Legion Breaker Updates",
+          "description": "This module collects official development updates, balance changes, and release information from the developer. It keeps players informed about new features and gameplay adjustments.",
+          "href": "/release/legion-breaker-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Oct 13",
+              "detail": "Official launch Legion Breaker released on Steam for PC at $6.99 with a 20% introductory discount through late October.",
+              "badge": "Live"
+            },
+            {
+              "label": "Launch",
+              "detail": "Debuted to a Very Positive Steam rating within the first 24 hours of availability."
+            },
+            {
+              "label": "v1.0",
+              "detail": "The base campaign ships with three escalating boss encounters and a full 30 to 60 minute run loop."
+            },
+            {
+              "label": "Demo",
+              "detail": "A free Legion Breaker Demo is available on Steam to try the spell and army systems before buying."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Legion Breaker Download",
+          "description": "This module provides official download and store information, including the full game page and demo availability. It helps users quickly find legitimate ways to access Legion Breaker.",
+          "href": "/release/legion-breaker-download",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Steam",
+              "detail": "Buy the official PC release on Steam for $6.99, or $5.59 with the 20% launch discount."
+            },
+            {
+              "label": "Demo",
+              "detail": "Try the free Legion Breaker Demo on Steam before committing to the full game."
+            },
+            {
+              "label": "Bundles",
+              "detail": "Fracture Field, Limit Break, and Greedland bundles pair the game with complementary indie titles."
+            },
+            {
+              "label": "Size",
+              "detail": "The install is exceptionally lightweight, so the download completes almost immediately after purchase."
+            },
+            {
+              "label": "PC Only",
+              "detail": "Legion Breaker is a PC release with no console or mobile version announced at launch."
+            },
+            {
+              "label": "Patches",
+              "detail": "Buying through official channels keeps you on current balance hotfixes and cloud saves."
             }
           ]
         }
@@ -308,23 +431,31 @@
       "items": [
         {
           "question": "What is Legion Breaker?",
-          "answer": "Legion Breaker is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Legion Breaker is an active incremental defense game from developer Baffled Engineer, published by Level Up Gaming and Gamersky Games. You control a lone battlemage who aims spells at endless undead waves while commanding a growing holy army of spearmen and archers."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Is Legion Breaker free to play?",
+          "answer": "No. Legion Breaker is a paid PC title on Steam priced at $6.99, with a 20% introductory discount that drops it to $5.59 through late October. A free demo is also available."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How long does a Legion Breaker run take?",
+          "answer": "A full Legion Breaker campaign run lasts roughly 30 to 60 minutes across three escalating boss battles, though faster clears are possible once you know the upgrade priorities."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What is Blight Damage in Legion Breaker?",
+          "answer": "Blight Damage is a constant passive health drain that ticks from the moment a battle starts. It acts as a combat timer in Legion Breaker, so kill fast and lean on Spirit Drain recovery to stay alive."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Which upgrades should beginners buy first in Legion Breaker?",
+          "answer": "Prioritize core spell damage and Fortitude for maximum HP, then Spirit Drain for sustain. In Legion Breaker, spreading gold across fringe utility perks early usually leaves your damage too low for the first boss."
+        },
+        {
+          "question": "Does Legion Breaker have codes?",
+          "answer": "Legion Breaker is a paid single-player PC game with no redemption codes. Progression comes from gold earned in battle and the in-run upgrade tree rather than code rewards."
+        },
+        {
+          "question": "What platforms is Legion Breaker on?",
+          "answer": "Legion Breaker is available on PC via Steam. There is currently no console or mobile version of Legion Breaker."
         }
       ]
     },
