@@ -1,0 +1,14 @@
+{
+  "name": "legion-breaker-wiki",
+  "compatibility_date": "2024-09-01",
+  "workers_dev": false,
+  "assets": {
+    "directory": "./out"
+  },
+  "routes": [
+    {
+      "pattern": "legion-breaker.wiki",
+      "custom_domain": true
+    }
+  ]
+}
