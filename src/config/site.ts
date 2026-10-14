@@ -1,3 +1,5 @@
+import { locales } from "@/i18n/routing";
+
 export interface SiteConfig {
   name: string;
   shortName: string;
@@ -33,6 +35,6 @@ export const siteConfig: SiteConfig = {
     discord: "https://steamcommunity.com/app/4425980",
     youtube: "https://www.youtube.com/watch?v=Qjv2H7hWovs",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales,
   defaultLocale: "en",
 };
